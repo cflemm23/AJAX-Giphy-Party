@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: tan;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
